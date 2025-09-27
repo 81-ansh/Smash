@@ -16,8 +16,5 @@ class SMASH_API ASmashCar : public AWheeledVehiclePawn
 
 public:
 	ASmashCar();
-
-private:
-	
 	
 };
